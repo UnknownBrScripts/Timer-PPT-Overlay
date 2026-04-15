@@ -16,13 +16,6 @@ README principal: [../README.md](../README.md)
 - Instância única (abrir o `.exe` novamente traz a janela existente para frente)
 - Configurações persistidas no Registro do Windows (HKCU)
 
-## Prints
-
-![Overlay](../assets/overlay.png)
-![Menu de contexto](../assets/menu-contexto.png)
-![Tela de configurações](../assets/configuracoes.png)
-![Seletor de cor](../assets/seletor-cor.png)
-
 ## Build (Visual Studio)
 
 1. Abra a solução: `Timer PPT.slnx`
